@@ -29,7 +29,7 @@
 
 ## Conclusions
 - The accuracy of test set is around 90%
-- Accuracy of validation dats set is around 80%
+- Accuracy of validation dats set is around 87%
 - We may run extra epochs to see if the model performs better. But, in such case there could be a problem of overfitting as well.
 - The model with the above accuracy shows an increased performace of the model when we train with dataset where number of images in each class is balanced.
 - We can see that the model performed better on augmented data. 
